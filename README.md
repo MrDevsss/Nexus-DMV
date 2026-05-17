@@ -1,12 +1,10 @@
 # Nexus-DMV
-
-# DMV Driving School V2
-
+ 
 A comprehensive driver licensing system for FiveM ESX servers.
 
 ## Overview
 
-DMV Driving School V2 provides a complete testing and licensing workflow including written theory examinations, practical driving assessments, and automated documentation through an integrated receipt system.
+Nexus-DMV provides a complete testing and licensing workflow including written theory examinations, practical driving assessments, and automated documentation through an integrated receipt system.
 
 ## Core Features
 
