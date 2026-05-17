@@ -45,3 +45,6 @@ Ken Mondragon
 ## Support
 
 For issues and feature requests, please use the GitHub issue tracker.
+
+<img width="1165" height="827" alt="image" src="https://github.com/user-attachments/assets/be809045-3ea1-4d96-bfd9-cba7d49c987b" />
+
