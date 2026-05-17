@@ -4,7 +4,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Ken Mondragon'
-description 'DMV Driving School System V2 with Theory Tests and Multiple Vehicles'
+description 'Nexus DMV with Theory Tests and Multiple Vehicles'
 version '2.0.0'
 
 shared_scripts {
