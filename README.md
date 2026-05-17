@@ -10,7 +10,7 @@ Nexus-DMV provides a complete testing and licensing workflow including written t
 
 **Theory Examination**
 - Randomized question pool
-- Configurable passing threshold (default: 70%)
+- Configurable passing threshold (default: 100%)
 - Instant scoring and feedback
 
 **Practical Assessment**
